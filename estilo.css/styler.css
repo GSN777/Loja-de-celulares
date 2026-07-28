@@ -42,6 +42,7 @@ body {
     padding: 15px;
     background: url(/img/Apple-Phone.jpg) center center / cover no-repeat;
     border-bottom: 0.2rem solid var(--border02);
+    display: block;
 }
 
 .header section h1 {
