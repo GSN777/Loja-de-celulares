@@ -40,7 +40,7 @@ body {
     right: 0;
     z-index: 99;
     padding: 15px;
-    background: url(/img/Apple-Phone.jpg) center center / cover no-repeat;
+    background-color: #000;
     border-bottom: 0.2rem solid var(--border02);
     display: block;
 }
